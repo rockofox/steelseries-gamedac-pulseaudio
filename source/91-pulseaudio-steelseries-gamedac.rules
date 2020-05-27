@@ -1,0 +1,1 @@
+ATTRS{idVendor}=="1038", ATTRS{idProduct}=="1282", ENV{PULSE_PROFILE_SET}="steelseries-gamedac-usb-audio.conf"
