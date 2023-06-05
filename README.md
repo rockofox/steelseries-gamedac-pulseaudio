@@ -1,3 +1,5 @@
+**NOTE: I no longer actively use this headset. But if something breaks, contact me and I'll try to help you fix it.**
+
 # steelseries-gamedac-pulseaudio
 Enable ChatMix and surround sound on the Steelseries Arctis Pro using PulseAudio profile files. Based off [the work by Witek094](https://github.com/Witek094/steelseries-arctis-pro-wireless-pulseaudio-profile)
 ## Installation
